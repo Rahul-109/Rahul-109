@@ -1,7 +1,7 @@
  Hi, I'm Rahul
 
 - B.Tech CSE student at VIT Bhopal
-- Interested in learning programming and AI Hi there 👋
+- Interested in learning programming and AI 
 
 <!--
 **Rahul-109/Rahul-109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
